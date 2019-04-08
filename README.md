@@ -5,6 +5,6 @@
 [Oppgave 2](https://fuzzbin.github.io/IT2-H18/Oppgave_2/)
 [Oppgave 3](https://fuzzbin.github.io/IT2-H18/Oppgave_3/)
 
-## Kommerntarer til oppgaven
+## Kommentarer til oppgaven
 ...
 
