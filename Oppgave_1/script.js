@@ -1,8 +1,6 @@
 // Løsningsforslag - Oppgave 1 - Eksmane IT2 H18
 // CC BY SA - Tom Jarle Christiansen - 2019
 
-
-
 // Leser inn elementer
 let voksen = document.querySelector("#voksenRadio");
 let antDager = document.querySelector("#antDagerElement");
