@@ -6,5 +6,5 @@
 [Oppgave 3](https://fuzzbin.github.io/IT2-H18/Oppgave3/)<br>
 
 ## Kommentarer til oppgaven
-Førsteutkast... Ikke helt ferdig
+Ingen kommentarer
 
